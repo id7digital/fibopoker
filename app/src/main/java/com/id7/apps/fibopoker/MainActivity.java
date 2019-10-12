@@ -38,9 +38,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         MobileAds.initialize(this, "ca-app-pub-8354575574816340~6439980842");
 
-        SeekBar seekBar = findViewById(R.id.seekBar);
-        image = findViewById(R.id.imageView);
-
         mAdView = findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);

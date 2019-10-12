@@ -32,6 +32,7 @@
 
         <android.support.v7.widget.CardView
             android:id="@+id/card0"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_centerInParent="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -56,6 +57,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
+                    android:textColor="@android:color/background_light"
                     android:textAlignment="center"
                     android:textSize="15dp"
                     android:text="0"/>
@@ -66,6 +68,7 @@
 
         <android.support.v7.widget.CardView
             android:id="@+id/cardhalf"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_centerInParent="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -90,6 +93,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
+                    android:textColor="@android:color/background_light"
                     android:textAlignment="center"
                     android:textSize="15dp"
                     android:text="1/2"/>
@@ -102,6 +106,7 @@
     <android.support.v7.widget.CardView
         android:id="@+id/card1"
         android:layout_centerInParent="true"
+        android:backgroundTint="@color/colorPrimary"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_columnWeight="3"
@@ -124,6 +129,7 @@
                 android:id="@+id/card1Text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@android:color/background_light"
                 android:gravity="center_vertical"
                 android:textAlignment="center"
                 android:textSize="15dp"
@@ -136,6 +142,7 @@
         <android.support.v7.widget.CardView
             android:id="@+id/card2"
             android:layout_centerInParent="true"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_columnWeight="3"
@@ -158,6 +165,7 @@
                     android:id="@+id/card2Text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@android:color/background_light"
                     android:gravity="center_vertical"
                     android:textAlignment="center"
                     android:textSize="15dp"
@@ -170,6 +178,7 @@
         <android.support.v7.widget.CardView
             android:id="@+id/card3"
             android:layout_centerInParent="true"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_columnWeight="3"
@@ -192,6 +201,7 @@
                     android:id="@+id/card3Text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@android:color/background_light"
                     android:gravity="center_vertical"
                     android:textAlignment="center"
                     android:textSize="15dp"
@@ -205,6 +215,7 @@
             android:id="@+id/card5"
             android:layout_centerInParent="true"
             android:layout_width="wrap_content"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_height="wrap_content"
             android:layout_columnWeight="3"
             android:layout_rowWeight="1"
@@ -226,6 +237,7 @@
                     android:id="@+id/card5Text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@android:color/background_light"
                     android:gravity="center_vertical"
                     android:textAlignment="center"
                     android:textSize="15dp"
@@ -238,6 +250,7 @@
         <android.support.v7.widget.CardView
             android:id="@+id/card8"
             android:layout_centerInParent="true"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_columnWeight="3"
@@ -260,6 +273,7 @@
                     android:id="@+id/card8Text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@android:color/background_light"
                     android:gravity="center_vertical"
                     android:textAlignment="center"
                     android:textSize="15dp"
@@ -272,6 +286,7 @@
         <android.support.v7.widget.CardView
             android:id="@+id/card13"
             android:layout_centerInParent="true"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_columnWeight="3"
@@ -294,6 +309,7 @@
                     android:id="@+id/card13Text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@android:color/background_light"
                     android:gravity="center_vertical"
                     android:textAlignment="center"
                     android:textSize="15dp"
@@ -305,6 +321,7 @@
 
         <android.support.v7.widget.CardView
             android:id="@+id/card20"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_centerInParent="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -329,6 +346,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
+                    android:textColor="@android:color/background_light"
                     android:textAlignment="center"
                     android:textSize="15dp"
                     android:text="20"/>
@@ -341,6 +359,7 @@
             android:id="@+id/card40"
             android:layout_centerInParent="true"
             android:layout_width="wrap_content"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_height="wrap_content"
             android:layout_columnWeight="3"
             android:layout_rowWeight="1"
@@ -363,6 +382,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
+                    android:textColor="@android:color/background_light"
                     android:textAlignment="center"
                     android:textSize="15dp"
                     android:text="40"/>
@@ -374,6 +394,7 @@
         <android.support.v7.widget.CardView
             android:id="@+id/card100"
             android:layout_centerInParent="true"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_columnWeight="3"
@@ -398,6 +419,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
                     android:textAlignment="center"
+                    android:textColor="@android:color/background_light"
                     android:textSize="15dp"
                     android:text="100"/>
 
@@ -407,6 +429,7 @@
 
         <android.support.v7.widget.CardView
             android:id="@+id/infinity"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_centerInParent="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -431,6 +454,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
+                    android:textColor="@android:color/background_light"
                     android:textAlignment="center"
                     android:textSize="15dp"
                     android:text="infinity"/>
@@ -441,6 +465,7 @@
         <android.support.v7.widget.CardView
             android:id="@+id/question"
             android:layout_centerInParent="true"
+            android:backgroundTint="@color/colorPrimary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_columnWeight="3"
@@ -465,6 +490,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
                     android:textAlignment="center"
+                    android:textColor="@android:color/background_light"
                     android:textSize="15dp"
                     android:text="?"/>
 
@@ -481,6 +507,7 @@
             android:layout_marginLeft="50dp"
             android:layout_marginBottom="10dp"
             android:layout_marginRight="20dp"
+            android:backgroundTint="@color/colorPrimary"
             app:cardElevation="8dp"
             app:cardCornerRadius="8dp">
 
@@ -497,9 +524,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
+                    android:text="coffee"
                     android:textAlignment="center"
-                    android:textSize="15dp"
-                    android:text="coffee"/>
+                    android:textColor="@android:color/background_light"
+                    android:textSize="15dp" />
 
             </LinearLayout>
 
